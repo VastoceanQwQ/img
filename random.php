@@ -4,7 +4,7 @@ $seed = time();
 //获取随机数
 $num = mt_rand(1,121);
 //拼接图片地址
-$picpath = "https://fastly.jsdelivr.net/gh/haohanhaiyang/img@main/nature/".$num.".jpg";
+$picpath = "https://cdn.jsdelivr.net/gh/haohanhaiyang/img@main/nature/".$num.".jpg";
 //重定位到图片
 die(header("Location: $picpath"));
 ?>
