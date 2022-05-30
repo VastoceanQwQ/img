@@ -4,4 +4,6 @@
 
 图片托管仓库: https://github.com/haohanhaiyang/img
 
-现收录121张壁纸|更新日期: 2022.05.26
+国内镜像仓库:  https://gitee.com/haohanhaiyang/img
+
+现收录161张壁纸|更新日期: 2022.05.30
