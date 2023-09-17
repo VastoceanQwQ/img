@@ -1,6 +1,6 @@
 # 瀚海驿站 · 随机壁纸API
 
-调用地址: https://img.hhhy.link/random.php
+调用地址: https://img.vastocean.tk/random
 
 图片托管仓库: https://github.com/haohanhaiyang/img
 
