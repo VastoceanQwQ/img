@@ -1,6 +1,6 @@
 <?php
 //API名称
-$APIname='QAC_API';
+$APIname='HHYZ_API';
 // 存储数据的文件
 $filename = 'img.txt';
 if(!file_exists($filename)) {
